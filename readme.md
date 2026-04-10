@@ -75,11 +75,8 @@ GET /api/classify?name=john
   "status": "error",
   "message": "Failed to fetch prediction from upstream service"
 }
-## Deployment
-
-Base URL:
-
-https://your-live-app-url.com
+## Deployment: Base URL:
+https://hngstack-rock.up.railway.app
 
 ## Notes
 CORS is enabled with Access-Control-Allow-Origin: *
@@ -89,7 +86,7 @@ probability >= 0.7
 sample_size >= 100
 
 ## Author
-My Name is Oyewumi LordRock, Im here to give little tips on how this project works.
+My Name is Oyewumi LordRock, I'm here to give little tips on how this project works.
 
 This project was developed as part of a backend assessment focused on API integration, data processing, and structured response handling. It reflects my growing experience in building reliable and scalable backend services using Node.js and Express.js.
 

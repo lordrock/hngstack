@@ -17,7 +17,7 @@ const sendError = (res, statusCode, message) => {
 
 // Test route
 app.get("/", (req, res) => {
-  res.send("Backend app is running");
+  res.send("Welcome to Oyewumi LordRock Stack 0 API");
 });
 
 // Main route
